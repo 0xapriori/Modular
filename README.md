@@ -15,6 +15,7 @@ This repository will provide a home for resources used while researching modular
 
 ## Rollups
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
+- [Rollups as Sovereign Chains](https://blog.celestia.org/sovereign-rollup-chains/#why-sovereign)
 - [On-chain scaling to potentially ~500 tx/sec through mass tx validation](https://ethresear.ch/t/on-chain-scaling-to-potentially-500-tx-sec-through-mass-tx-validation/3477)
 - [Minimal Viable Merged Consensus](https://ethresear.ch/t/minimal-viable-merged-consensus/5617?u=0xapriori)
 - [An incomplete guid to rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
