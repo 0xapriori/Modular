@@ -71,6 +71,7 @@ Modular blockchain research. A home for resources used while researching modular
 - [Modular and monolithic blockchains](https://celestia.org/learn/basics-of-modular-blockchains/modular-and-monolithic-blockchains/)
 - [Herodotus DOcs: Storage Proofs](https://docs.herodotus.dev/herodotus-docs/developers/storage-proofs) 
 - [The Limits to Blockchain Scalability](https://vitalik.eth.limo/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) 
+- [Exit games for EVM validiums: the return of Plasma](https://vitalik.eth.limo/general/2023/11/14/neoplasma.html)
 
 ## Coordination
 - [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
