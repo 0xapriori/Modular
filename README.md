@@ -22,6 +22,8 @@ Rollups
 - [Understanding rollup economics from first principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
 - [Shared Sequencing: Defragmenting the L2 Rollup Ecosystem](https://hackmd.io/@EspressoSystems/SharedSequencing)
 - [Analyzing BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations)
+- [What kind of layer 3s make sense?](https://vitalik.eth.limo/general/2022/09/17/layer_3.html) 
+- [Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html)
 
 
 
@@ -60,6 +62,10 @@ General
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/)
 - [The fundamental security limits of bridges...](https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/)
 - [Blobstream Fraud Proofs](https://github.com/celestiaorg/blobstream-contracts/blob/master/docs/inclusion-proofs.md)
+- [Modular and monolithic blockchains](https://celestia.org/learn/basics-of-modular-blockchains/modular-and-monolithic-blockchains/)
+- [Herodotus DOcs: Storage Proofs](https://docs.herodotus.dev/herodotus-docs/developers/storage-proofs) 
+- [The Limits to Blockchain Scalability](https://vitalik.eth.limo/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) 
+
 
 
 Coordination
