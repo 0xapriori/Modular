@@ -1,7 +1,7 @@
 # Modular
 Modular blockchain research. 
 
-This repository will provide a home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. The linked materials include content from some of the earliest discussion of these ideas on research forums, to more recent write-ups about these ideas. In this deep, dive it was important to take a holistic view of the *modular* space. In particular, we wanted to understand how Modular fits in the context of scalability zeitgeist tracing its roots. This exploration provided a rich context for us to understand the current state of the scaling discourse as well as situate Anoma within the modular landscape in order to pursue ideas in forthcoming writing and discussion. 
+This repository will provide a home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. The linked materials include content from some of the earliest discussion of these ideas on research forums, to more recent write-ups about these ideas. In this deep-dive it was important to take a holistic view of the *modular* space. In particular, we wanted to understand how Modular fits in the context of scalability zeitgeist tracing its roots. This exploration provided a rich context for us to understand the current state of the scaling discourse as well as situate Anoma within the modular landscape in order to pursue ideas in forthcoming writing and discussion. 
 
 ## Anoma
 - [Deliberate Design of Operating Systems](https://pomf2.lain.la/f/2046jrmg.pdf)
