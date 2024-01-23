@@ -35,6 +35,7 @@ This repository will provide a home for resources used while researching modular
 - [Analyzing BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations)
 - [What kind of layer 3s make sense?](https://vitalik.eth.limo/general/2022/09/17/layer_3.html) 
 - [Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html)
+- [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433)
 
 ## Data Availability 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/abs/1809.09044)
@@ -75,6 +76,7 @@ This repository will provide a home for resources used while researching modular
 - [Herodotus DOcs: Storage Proofs](https://docs.herodotus.dev/herodotus-docs/developers/storage-proofs) 
 - [The Limits to Blockchain Scalability](https://vitalik.eth.limo/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) 
 - [Exit games for EVM validiums: the return of Plasma](https://vitalik.eth.limo/general/2023/11/14/neoplasma.html)
+- [Notes on Ethereum in numbers - where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 
 ## Coordination
 - [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
