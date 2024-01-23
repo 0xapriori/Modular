@@ -77,12 +77,25 @@ This repository will provide a home for resources used while researching modular
 - [The Limits to Blockchain Scalability](https://vitalik.eth.limo/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) 
 - [Exit games for EVM validiums: the return of Plasma](https://vitalik.eth.limo/general/2023/11/14/neoplasma.html)
 - [Notes on Ethereum in numbers - where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
+- [The Interblockchain Communication Protocol: An Overview](https://arxiv.org/pdf/2006.15918.pdf)
 
 ## Coordination
 - [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
 - [Anoma: Undefining Money](https://anoma.net/vision-paper.pdf)
 - [Coordination in organizations: A game-theoretic perspective](https://sci-hub.st/https://doi.org/10.1017/CBO9780511584169.010)
 - [Coordination, Good and Bad](https://vitalik.eth.limo/general/2020/09/11/coordination.html) 
+
+## Podcasts and Audio
+- [Ethereum ÐΞVcon-0: Ethereum 1.x: On blockchain interop and scaling](https://www.youtube.com/watch?v=fwEsXBDFk6c&list=PLAvgWf9pPaiOIW2US8EC0ej7lPf_6xSUm&index=4) 
+- [DEVCON1: Scalable Blockchains & Asynchronous Programming - Vitalik Buterin](https://www.youtube.com/watch?v=-QIt3mKLIYU) 
+- [DEVCON1: Panel - Scalability](https://www.youtube.com/watch?v=1KaQsrqC94s)
+- [Sovereign vs. Classic Rollups](https://www.youtube.com/watch?v=Q-yZ7QCw2iE)
+- [Sovereignty in the personal computing revolution with Ethan Buchman](https://podcast.celestia.org/episodes/sovereignty-in-the-personal-computing-revolution)
+- [Shared security: Tradeoffs and its future with Zaki Manian](https://podcast.celestia.org/episodes/shared-security-tradeoffs-and-its-future) 
+
+
+
+
 
 Notes
 
