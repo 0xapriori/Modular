@@ -15,17 +15,21 @@ Rollups
 Data Availability 
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](https://arxiv.org/pdf/1905.09274.pdf)
 - [[Bitcoin-development] Setting the record straight on Proof-of-Publication](https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg06570.html)
+- [A note on data availability and erasure coding](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding)
+- [An O(log(n))-scaling blockchain with validationless full nodes using data availability schemes](https://ethresear.ch/t/an-o-log-n-scaling-blockchain-with-validationless-full-nodes-using-data-availability-schemes/1370)
 - [Phase One and Done: eth2 as a data availability engine](https://ethresear.ch/t/phase-one-and-done-eth2-as-a-data-availability-engine/5269)
 - [Transcript: Scalable blockchains as data layers | Vitalik Buterin](https://trentv.medium.com/transcript-scalable-blockchains-as-data-layers-vitalik-buterin-11aa18b37e07)
 - [Layer 1 Should Be Innovative in the Short Term but Less in the Long Term](https://vitalik.eth.limo/general/2018/08/26/layer_1.html) 
 
 General
-- [[AMA] We are EF Research (Pt. 11: 10 January, 2024)](https://www.reddit.com/r/ethereum/comments/191kke6/comment/kh78s3m/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+- [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
 - [ZKP Workshop 2022: Dan Boneh - Constructing Modern SNARKS](https://www.youtube.com/watch?v=6psLQv5Hf_I) 
 - [The End Game (Modular Summit 2023)](https://www.youtube.com/watch?v=9t8JCf_XWmg)
 - [Cooperative AI via Decentralized Commitment Devices](https://arxiv.org/pdf/2311.07815.pdf)
 - [A model for cumulative committee-based finality](https://ethresear.ch/t/a-model-for-cumulative-committee-based-finality/10259)
+- [[AMA] We are EF Research (Pt. 11: 10 January, 2024)](https://www.reddit.com/r/ethereum/comments/191kke6/comment/kh78s3m/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) 
+- [Layer 1 Should Be Innovative in the Short Term but Less in the Long Term](https://vitalik.eth.limo/general/2018/08/26/layer_1.html) 
 
 Coordination
 - [Coordination in organizations: A game-theoretic perspective](https://sci-hub.st/https://doi.org/10.1017/CBO9780511584169.010)
