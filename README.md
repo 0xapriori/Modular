@@ -17,6 +17,12 @@ Rollups
 - [Achieving fast finality with sovereign zk-rollups](https://mirror.xyz/sovlabs.eth/Hwe-6x6MTUjvpuTuuwIoN2E8lgpg1euDnn_vZgwoH0Y)
 - [On Fast finality](https://x.com/cemozer_/status/1636560663228055552?s=20)
 - [Rollups Are L1s (& L2s) a.k.a. How Rollups *Actually Actually Actually* Work](https://dba.mirror.xyz/LYUb_Y2huJhNUw_z8ltqui2d6KY8Fc3t_cnSE9rDL_o)
+- [The hybrid ZK/Optimistic Rollup of the future](https://kelvinfichter.com/pages/thoughts/hybrid-rollups/)
+- [Rollups, Rigor, and Reality](https://kelvinfichter.com/pages/thoughts/rrr/)
+- [Understanding rollup economics from first principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
+- [Shared Sequencing: Defragmenting the L2 Rollup Ecosystem](https://hackmd.io/@EspressoSystems/SharedSequencing)
+- [Analyzing BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations)
+
 
 
 Data Availability 
