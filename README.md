@@ -22,6 +22,7 @@ Rollups
 Data Availability 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/abs/1809.09044)
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](https://arxiv.org/pdf/1905.09274.pdf)
+- [Foundations of Data Availability Sampling](https://www.youtube.com/watch?v=KUNE3kR1kwU) 
 - [[Bitcoin-development] Setting the record straight on Proof-of-Publication](https://www.mail-archive.com/bitcoin-development@lists.sourceforge.net/msg06570.html)
 - [A note on data availability and erasure coding](https://github.com/ethereum/research/wiki/A-note-on-data-availability-and-erasure-coding)
 - [An O(log(n))-scaling blockchain with validationless full nodes using data availability schemes](https://ethresear.ch/t/an-o-log-n-scaling-blockchain-with-validationless-full-nodes-using-data-availability-schemes/1370)
@@ -31,6 +32,7 @@ Data Availability
 - [A data availability blockchain with sub-linear full block validation](https://ethresear.ch/t/a-data-availability-blockchain-with-sub-linear-full-block-validation/5503/1)
 - [Vitalik Butrin - The Data Availability Problem](https://youtu.be/l3vf7auMewQ?si=HSBqowhBKABKf0A3)
 - [An explanation of the sharding + DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal#The-pull-request)
+- [Celestia's Data Availability Layer](https://docs.celestia.org/learn/how-celestia-works/data-availability-layer)
 
 General
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
@@ -51,6 +53,7 @@ General
 - [Minimal Slashing Conditions](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
 - [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/)
 - [The fundamental security limits of bridges...](https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/)
+- [Blobstream Fraud Proofs](https://github.com/celestiaorg/blobstream-contracts/blob/master/docs/inclusion-proofs.md)
 
 
 Coordination
