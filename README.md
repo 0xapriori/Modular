@@ -10,6 +10,8 @@ Anoma
 Rollups
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 - [On-chain scaling to potentially ~500 tx/sec through mass tx validation](https://ethresear.ch/t/on-chain-scaling-to-potentially-500-tx-sec-through-mass-tx-validation/3477)
+- [Minimal Viable Merged Consensus](https://ethresear.ch/t/minimal-viable-merged-consensus/5617?u=0xapriori)
+- [An incomplete guid to rollups](https://vitalik.eth.limo/general/2021/01/05/rollup.html)
 - [Defining "Rollup"](https://prestwich.substack.com/p/defining-rollup)
 - [The Definitive Guide to Sequencing](https://prestwich.substack.com/p/the-definitive-guide-to-sequencing)
 - [The MevConomics of bridging - James Prestwich](https://youtu.be/W0ZJ_MamKM4?si=--_xJJ8EmxcKWFBB&t=719)
@@ -21,6 +23,8 @@ Rollups
 - [Rollups, Rigor, and Reality](https://kelvinfichter.com/pages/thoughts/rrr/)
 - [Understanding rollup economics from first principles](https://barnabe.substack.com/p/understanding-rollup-economics-from)
 - [Shared Sequencing: Defragmenting the L2 Rollup Ecosystem](https://hackmd.io/@EspressoSystems/SharedSequencing)
+- [Based rollups—superpowers from L1 sequencing](https://ethresear.ch/t/based-rollups-superpowers-from-l1-sequencing/15016)
+- [Based preconfirmations](https://ethresear.ch/t/based-preconfirmations/17353)
 - [Analyzing BFT & Proposer-Promised Preconfirmations](https://hackmd.io/@EspressoSystems/bft-and-proposer-promised-preconfirmations)
 - [What kind of layer 3s make sense?](https://vitalik.eth.limo/general/2022/09/17/layer_3.html) 
 - [Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html)
