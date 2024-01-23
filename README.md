@@ -5,6 +5,7 @@ Anoma
 - [Deliberate Design of Operating Systems](https://pomf2.lain.la/f/2046jrmg.pdf)
 - [Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386)
 - [Towards an intent-centric topology](https://anoma.net/blog/towards-an-intent-centric-topology)
+- [Notes on The Autonomous Ecologist's Guide to Namada and Anoma](https://research.anoma.net/t/notes-on-the-autonomous-ecologists-guide-to-namada-and-anoma/273)
 
 Rollups
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
@@ -48,6 +49,8 @@ General
 - [Amdahl's law](https://en.wikipedia.org/wiki/Amdahl%27s_law)
 - [Sidechains vs Plasma vs Sharding](https://vitalik.eth.limo/general/2019/06/12/plasma_vs_sharding.html) 
 - [Minimal Slashing Conditions](https://medium.com/@VitalikButerin/minimal-slashing-conditions-20f0b500fc6c)
+- [Clusters: how trusted & trust-minimized bridges shape the multi-chain landscape](https://blog.celestia.org/clusters/)
+- [The fundamental security limits of bridges...](https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/)
 
 
 Coordination
