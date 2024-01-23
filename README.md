@@ -6,6 +6,10 @@ Anoma
 - [Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386)
 - [Towards an intent-centric topology](https://anoma.net/blog/towards-an-intent-centric-topology)
 - [Notes on The Autonomous Ecologist's Guide to Namada and Anoma](https://research.anoma.net/t/notes-on-the-autonomous-ecologists-guide-to-namada-and-anoma/273)
+- [Anoma: Undefining Money](https://anoma.net/vision-paper.pdf)
+- [Anoma Blog](https://anoma.net/blog)
+- [Anoma research forums](https://research.anoma.net)
+
 
 Rollups
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
@@ -73,6 +77,8 @@ General
 
 
 Coordination
+- [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
+- [Anoma: Undefining Money](https://anoma.net/vision-paper.pdf)
 - [Coordination in organizations: A game-theoretic perspective](https://sci-hub.st/https://doi.org/10.1017/CBO9780511584169.010)
 - [Coordination, Good and Bad](https://vitalik.eth.limo/general/2020/09/11/coordination.html) 
 
