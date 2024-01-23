@@ -36,6 +36,8 @@ This repository will provide a home for resources used while researching modular
 - [What kind of layer 3s make sense?](https://vitalik.eth.limo/general/2022/09/17/layer_3.html) 
 - [Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html)
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433)
+- [Confirmation rules and blockchain security](https://x.com/sreeramkannan/status/1683735050897207296?s=20)
+- [Do rollups inherit security?](https://dba.xyz/do-rollups-inherit-security/)
 
 ## Data Availability 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/abs/1809.09044)
@@ -51,6 +53,7 @@ This repository will provide a home for resources used while researching modular
 - [Vitalik Butrin - The Data Availability Problem](https://youtu.be/l3vf7auMewQ?si=HSBqowhBKABKf0A3)
 - [An explanation of the sharding + DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal#The-pull-request)
 - [Celestia's Data Availability Layer](https://docs.celestia.org/learn/how-celestia-works/data-availability-layer)
+
 
 ## General
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
@@ -90,12 +93,16 @@ This repository will provide a home for resources used while researching modular
 - [Ethereum ÐΞVcon-0: Ethereum 1.x: On blockchain interop and scaling](https://www.youtube.com/watch?v=fwEsXBDFk6c&list=PLAvgWf9pPaiOIW2US8EC0ej7lPf_6xSUm&index=4) 
 - [DEVCON1: Scalable Blockchains & Asynchronous Programming - Vitalik Buterin](https://www.youtube.com/watch?v=-QIt3mKLIYU) 
 - [DEVCON1: Panel - Scalability](https://www.youtube.com/watch?v=1KaQsrqC94s)
+- [EDCON 2020 Keynote | John Adler, Fuel: Scaling Ethereum with Optimistic Rollups](https://www.youtube.com/watch?v=f7EqPtuJ5IY) 
 - [Sovereign vs. Classic Rollups](https://www.youtube.com/watch?v=Q-yZ7QCw2iE)
 - [Sovereignty in the personal computing revolution with Ethan Buchman](https://podcast.celestia.org/episodes/sovereignty-in-the-personal-computing-revolution)
 - [Shared security: Tradeoffs and its future with Zaki Manian](https://podcast.celestia.org/episodes/shared-security-tradeoffs-and-its-future) 
 - [A Rollup-Centric Future & Sovereign Chains with Mustafa Al-Bassam](https://zeroknowledge.fm/268-2/)
 - [Intents with Chris Goes from Anoma](https://zeroknowledge.fm/285-2/)
-
+- [Secure Off-chain Data Availability for Rollups - John Adler](https://www.youtube.com/watch?v=f88tGRBimmE)
+- [MEVconomics for Modular Blockchain Stacks - Jon Adler](https://youtu.be/Tsg8fiQUdjY?si=T7AHUmhWj6QbfRhx)
+- [Profitable Censorship MEV - Connor O'Hara](https://www.youtube.com/watch?v=zEnySS0kh1s&pp=ygUZcHJvZml0YWJsZSBjZW5zb3JzaGlwIG1ldg%3D%3D)
+- [Data Availability is (real) important](https://www.youtube.com/live/BsUC0jZzP8E?si=ZRJMzXaxsDwkTLnP&t=21170)
 
 
 
