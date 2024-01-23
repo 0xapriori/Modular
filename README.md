@@ -78,6 +78,7 @@ This repository will provide a home for resources used while researching modular
 - [Exit games for EVM validiums: the return of Plasma](https://vitalik.eth.limo/general/2023/11/14/neoplasma.html)
 - [Notes on Ethereum in numbers - where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
 - [The Interblockchain Communication Protocol: An Overview](https://arxiv.org/pdf/2006.15918.pdf)
+- [Exploring Intents in Modular Architectures](https://research.anoma.net/t/exploring-intents-in-modular-architectures/136)
 
 ## Coordination
 - [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
@@ -92,6 +93,8 @@ This repository will provide a home for resources used while researching modular
 - [Sovereign vs. Classic Rollups](https://www.youtube.com/watch?v=Q-yZ7QCw2iE)
 - [Sovereignty in the personal computing revolution with Ethan Buchman](https://podcast.celestia.org/episodes/sovereignty-in-the-personal-computing-revolution)
 - [Shared security: Tradeoffs and its future with Zaki Manian](https://podcast.celestia.org/episodes/shared-security-tradeoffs-and-its-future) 
+- [A Rollup-Centric Future & Sovereign Chains with Mustafa Al-Bassam](https://zeroknowledge.fm/268-2/)
+- [Intents with Chris Goes from Anoma](https://zeroknowledge.fm/285-2/)
 
 
 
