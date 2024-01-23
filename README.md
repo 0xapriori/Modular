@@ -1,7 +1,7 @@
 # Modular
-Modular blockchain research. A home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. 
+Modular blockchain research. A home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. The linked materials include content from some of the earliest discussion of these ideas on research forums, to more recent write-ups about these ideas. In this deep, dive it was important to take a holistic view of the *modular* space. In particular, we wanted to understand how Modular fits in the context of scalability zeitgeist tracing its roots. This exploration provided a rich context for us to understand the current state of the scaling discourse as well as situate Anoma within the modular landscape in order to pursue ideas in forthcoming writing and discussion. 
 
-Anoma
+## Anoma
 - [Deliberate Design of Operating Systems](https://pomf2.lain.la/f/2046jrmg.pdf)
 - [Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386)
 - [Towards an intent-centric topology](https://anoma.net/blog/towards-an-intent-centric-topology)
@@ -11,7 +11,7 @@ Anoma
 - [Anoma research forums](https://research.anoma.net)
 
 
-Rollups
+## Rollups
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
 - [On-chain scaling to potentially ~500 tx/sec through mass tx validation](https://ethresear.ch/t/on-chain-scaling-to-potentially-500-tx-sec-through-mass-tx-validation/3477)
 - [Minimal Viable Merged Consensus](https://ethresear.ch/t/minimal-viable-merged-consensus/5617?u=0xapriori)
@@ -33,9 +33,7 @@ Rollups
 - [What kind of layer 3s make sense?](https://vitalik.eth.limo/general/2022/09/17/layer_3.html) 
 - [Different types of layer 2s](https://vitalik.eth.limo/general/2023/10/31/l2types.html)
 
-
-
-Data Availability 
+## Data Availability 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/abs/1809.09044)
 - [LazyLedger: A Distributed Data Availability Ledger With Client-Side Smart Contracts](https://arxiv.org/pdf/1905.09274.pdf)
 - [Foundations of Data Availability Sampling](https://www.youtube.com/watch?v=KUNE3kR1kwU) 
@@ -50,7 +48,7 @@ Data Availability
 - [An explanation of the sharding + DAS proposal](https://hackmd.io/@vbuterin/sharding_proposal#The-pull-request)
 - [Celestia's Data Availability Layer](https://docs.celestia.org/learn/how-celestia-works/data-availability-layer)
 
-General
+## General
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)
 - [KZG polynomial commitments](https://dankradfeist.de/ethereum/2020/06/16/kate-polynomial-commitments.html)
 - [ZKP Workshop 2022: Dan Boneh - Constructing Modern SNARKS](https://www.youtube.com/watch?v=6psLQv5Hf_I) 
@@ -74,9 +72,7 @@ General
 - [Herodotus DOcs: Storage Proofs](https://docs.herodotus.dev/herodotus-docs/developers/storage-proofs) 
 - [The Limits to Blockchain Scalability](https://vitalik.eth.limo/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) 
 
-
-
-Coordination
+## Coordination
 - [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
 - [Anoma: Undefining Money](https://anoma.net/vision-paper.pdf)
 - [Coordination in organizations: A game-theoretic perspective](https://sci-hub.st/https://doi.org/10.1017/CBO9780511584169.010)
