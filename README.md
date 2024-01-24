@@ -76,7 +76,7 @@ This repository will provide a home for resources used while researching modular
 - [The fundamental security limits of bridges...](https://old.reddit.com/r/ethereum/comments/rwojtk/ama_we_are_the_efs_research_team_pt_7_07_january/hrngyk8/)
 - [Blobstream Fraud Proofs](https://github.com/celestiaorg/blobstream-contracts/blob/master/docs/inclusion-proofs.md)
 - [Modular and monolithic blockchains](https://celestia.org/learn/basics-of-modular-blockchains/modular-and-monolithic-blockchains/)
-- [Herodotus DOcs: Storage Proofs](https://docs.herodotus.dev/herodotus-docs/developers/storage-proofs) 
+- [Herodotus Docs: Storage Proofs](https://docs.herodotus.dev/herodotus-docs/developers/storage-proofs) 
 - [The Limits to Blockchain Scalability](https://vitalik.eth.limo/general/2021/05/23/scaling.html#its-crucial-for-blockchain-decentralization-for-regular-users-to-be-able-to-run-a-node) 
 - [Exit games for EVM validiums: the return of Plasma](https://vitalik.eth.limo/general/2023/11/14/neoplasma.html)
 - [Notes on Ethereum in numbers - where physics meets TPS](https://research.anoma.net/t/notes-on-ethereum-in-numbers-where-physics-meets-tps/434)
