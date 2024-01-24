@@ -38,6 +38,7 @@ This repository will provide a home for resources used while researching modular
 - [Notes on Profitable Censorship MEV](https://research.anoma.net/t/notes-on-profitable-censorship-mev/433)
 - [Confirmation rules and blockchain security](https://x.com/sreeramkannan/status/1683735050897207296?s=20)
 - [Do rollups inherit security?](https://dba.xyz/do-rollups-inherit-security/)
+- [Accountable Safety for Rollups](https://arxiv.org/abs/2210.15017)
 
 ## Data Availability 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/abs/1809.09044)
