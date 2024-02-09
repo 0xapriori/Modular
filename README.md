@@ -1,16 +1,7 @@
 # Modular
 Modular blockchain research. 
 
-This repository will provide a home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. The linked materials include content from some of the earliest discussion of these ideas on research forums, to more recent write-ups about these ideas. In this deep-dive it was important to take a holistic view of the *modular* space. In particular, we wanted to understand how Modular fits in the context of scalability zeitgeist tracing its roots. This exploration provided a rich context for us to understand the current state of the scaling discourse as well as situate Anoma within the modular landscape in order to pursue ideas in forthcoming writing and discussion. 
-
-## Anoma
-- [Deliberate Design of Operating Systems](https://pomf2.lain.la/f/2046jrmg.pdf)
-- [Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386)
-- [Towards an intent-centric topology](https://anoma.net/blog/towards-an-intent-centric-topology)
-- [Notes on The Autonomous Ecologist's Guide to Namada and Anoma](https://research.anoma.net/t/notes-on-the-autonomous-ecologists-guide-to-namada-and-anoma/273)
-- [Anoma: Undefining Money](https://anoma.net/vision-paper.pdf)
-- [Anoma Blog](https://anoma.net/blog)
-- [Anoma research forums](https://research.anoma.net)
+This repository will provide a home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. The linked materials include content from some of the earliest discussion of these ideas on research forums, to more recent write-ups about these ideas. In this deep-dive it was important to take a holistic view of the *modular* space. In particular, we wanted to understand how Modular fits in the context of scalability zeitgeist tracing its roots. This exploration provided a rich context for us to understand the current state of the scaling discourse. 
 
 
 ## Rollups
@@ -39,6 +30,8 @@ This repository will provide a home for resources used while researching modular
 - [Confirmation rules and blockchain security](https://x.com/sreeramkannan/status/1683735050897207296?s=20)
 - [Do rollups inherit security?](https://dba.xyz/do-rollups-inherit-security/)
 - [Accountable Safety for Rollups](https://arxiv.org/abs/2210.15017)
+- [Anoma <3 Celestia: Intent-centric rollups](https://research.anoma.net/t/anoma-3-celestia-intent-centric-rollups/386)
+
 
 ## Data Availability 
 - [Fraud and Data Availability Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities](https://arxiv.org/abs/1809.09044)
@@ -85,6 +78,7 @@ This repository will provide a home for resources used while researching modular
 - [Exploring Intents in Modular Architectures](https://research.anoma.net/t/exploring-intents-in-modular-architectures/136)
 
 ## Coordination
+- [Towards an intent-centric topology](https://anoma.net/blog/towards-an-intent-centric-topology)
 - [Meditations on Moloch](https://www.slatestarcodexabridged.com/Meditations-On-Moloch) 
 - [Anoma: Undefining Money](https://anoma.net/vision-paper.pdf)
 - [Coordination in organizations: A game-theoretic perspective](https://sci-hub.st/https://doi.org/10.1017/CBO9780511584169.010)
@@ -106,7 +100,4 @@ This repository will provide a home for resources used while researching modular
 - [Data Availability is (real) important](https://www.youtube.com/live/BsUC0jZzP8E?si=ZRJMzXaxsDwkTLnP&t=21170)
 
 
-
-
-Notes
 
