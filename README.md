@@ -1,8 +1,7 @@
 # Modular
-Modular blockchain research. 
 
-This repository will provide a home for resources used while researching modular blockchains inclusive of rollups, data availability layers, and a few other things. The linked materials include content from some of the earliest discussion of these ideas on research forums, to more recent write-ups about these ideas. In this deep-dive it was important to take a holistic view of the *modular* space. In particular, we wanted to understand how Modular fits in the context of scalability zeitgeist tracing its roots. This exploration provided a rich context for us to understand the current state of the scaling discourse. 
-
+- This repository provides resources used while researching the origins of modular blockchains -- rollups, data availability layers, and a few other things. 
+- The linked materials includes content from some of the earliest discussion of these ideas on research forums as well more recent write-ups about these ideas. 
 
 ## Rollups
 - [A rollup-centric ethereum roadmap](https://ethereum-magicians.org/t/a-rollup-centric-ethereum-roadmap/4698)
